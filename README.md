@@ -24,6 +24,7 @@ Con la dirección del:
 ## Descripción y contexto
 ---
 El repositorio contiene una copia del Trabajo de Titulación <b>"Módulo para el seguimiento y control de becas de la Unidad de Bienestar Universitario"</b> el cuál contiene en su Anexo 1 la descripción de todo el desarrollo que se llevó a cabo para la ejecución del proyecto.
+Recursos adicionales como diagramas BPMN de los procesos que se llevan a cabo en la Gestión de Becas.
 <br/><br/>
 El Módulo de Gestión de Becas (MGB) implementado en el sistema SIAAF, forma parte integral del proyecto de Titulación mencionado y complementa el proceso de postulación de becas que se lleva a cabo a través del Módulo de Gestión de Trámites (MGT), mediante el seguiento y control de becas de la Unidad de Bienestar Universitario.
 <br/><br/>
