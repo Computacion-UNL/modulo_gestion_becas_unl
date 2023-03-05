@@ -32,8 +32,13 @@ El Módulo de Gestión de Becas (MGB) implementado en el sistema SIAAF, forma pa
 <br/><br/>
 
 <p align="center">
-<img src="./recursos%20adicionales/vista%20revisión%20MGB.png" width="100%" height="100%"/>
+<img src="./recursos%20adicionales/vista%20revisión%20MGB.png" width="100%" height="100%" alt="vista general del módulo de gestión de becas"/>
 <small>Vista de la Etapa de Revisión del Módulo de Gestión de Becas</small>
+</p>
+
+<p align="center">
+  <img src="./recursos%20adicionales/../recursos%20adicionales/diagramas%20bpmn/../../recursos%20adicionales/diagramas%20bpmn/1.%20Modelado%20general%20de%20procesos%20para%20la%20gestión%20de%20becas.svg" alt="diagrama general de procesos" style="background-color:white;" />
+  <small>Diagrama BPMN general de procesos en la gestión de becas</small>
 </p>
 
 Las funcionalidades con las que cuenta el módulo de sofware son:<br/>
