@@ -28,6 +28,12 @@ Recursos adicionales como diagramas BPMN de los procesos que se llevan a cabo en
 <br/><br/>
 El Módulo de Gestión de Becas (MGB) implementado en el sistema SIAAF, forma parte integral del proyecto de Titulación mencionado y complementa el proceso de postulación de becas que se lleva a cabo a través del Módulo de Gestión de Trámites (MGT), mediante el seguiento y control de becas de la Unidad de Bienestar Universitario.
 <br/><br/>
+
+<p align="center">
+<img src="./recursos%20adicionales/vista%20revisión%20MGB.png" width="100%" height="100%"/>
+<small>Vista de la Etapa de Revisión del Módulo de Gestión de Becas</small>
+</p>
+
 Las funcionalidades con las que cuenta el módulo de sofware son:<br/>
 -   Administración de la información de postulantes en la Etapa de Revisión
 -   Administración de la información de postulantes en la Etapa de Selección
